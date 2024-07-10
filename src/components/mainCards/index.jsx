@@ -8,7 +8,7 @@ import humidity from '../../images/humidity.svg'
 import precip from '../../images/precip.svg'
 import storm from '../../images/storm.png'
 import sunnyRainy from '../../images/sunnyRainy.png'
-import ForecastCard from './ForecastCard.tsx'
+import ForecastCard from './ForecastCard.jsx'
 
 const CurrentWeather = () => {
   const weatherConditions = [
